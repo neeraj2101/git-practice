@@ -29,4 +29,9 @@ public class Branch1 {
     }
 
 
+    public void branch7(){
+        System.out.println("branch4");
+    }
+
+
 }
