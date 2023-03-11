@@ -10,4 +10,11 @@ public class Master {
         System.out.println("master2");
     }
 
+
+    public void master3(){
+        System.out.println("master3");
+    }
+
+
+
 }
