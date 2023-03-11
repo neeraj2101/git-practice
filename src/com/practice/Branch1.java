@@ -28,4 +28,13 @@ public class Branch1 {
         System.out.println("branch4");
     }
 
+    public void branch7(){
+        System.out.println("branch4");
+    }
+
+    public void branch8(){
+        System.out.println("branch8");
+    }
+
+
 }
